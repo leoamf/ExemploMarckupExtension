@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ExemploMarckupExtension.SecondScreen"
+              xmlns:local="clr-namespace:ExemploMarckupExtension"
+             Title="Pagina 2">
+    <StackLayout BackgroundColor="{x:Static Member=local:Constantes.ColorFundo}">
+        
+        <Label Text="{Static Member=local:Constantes.TextoPadrao2}" 
+               HorizontalOptions="Center" VerticalOptions="CenterAndExpand" 
+               FontAttributes="{Static Member=local:Constantes.FontPadrao}"
+               TextColor="{x:Static Member=local:Constantes.CollorText}"/>
+        
+        <Button Text="Voltar" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"
+                Clicked="Handle_Clicked"> </Button>
+    </StackLayout>
+</ContentPage>

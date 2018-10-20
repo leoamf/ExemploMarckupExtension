@@ -1,0 +1,13 @@
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/bin/Debug/netstandard2.0/ExemploMarckupExtension.deps.json
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/bin/Debug/netstandard2.0/ExemploMarckupExtension.dll
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/bin/Debug/netstandard2.0/ExemploMarckupExtension.pdb
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/ExemploMarckupExtension.csprojAssemblyReference.cache
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/ExemploMarckupExtension.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/ExemploMarckupExtension.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/ExemploMarckupExtension.AssemblyInfo.cs
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/ExemploMarckupExtension.dll
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/ExemploMarckupExtension.pdb
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/ExemploMarckupExtension/obj/Debug/netstandard2.0/SecondScreen.xaml.g.cs

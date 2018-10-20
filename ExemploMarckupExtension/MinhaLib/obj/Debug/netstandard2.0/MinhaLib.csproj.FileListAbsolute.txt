@@ -1,0 +1,10 @@
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/bin/Debug/netstandard2.0/MinhaLib.deps.json
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/bin/Debug/netstandard2.0/MinhaLib.dll
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/bin/Debug/netstandard2.0/MinhaLib.pdb
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/obj/Debug/netstandard2.0/MinhaLib.csprojAssemblyReference.cache
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/obj/Debug/netstandard2.0/MinhaLib.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/obj/Debug/netstandard2.0/MinhaLib.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/obj/Debug/netstandard2.0/MinhaLib.AssemblyInfo.cs
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/obj/Debug/netstandard2.0/MinhaLib.dll
+/Users/aluno/Desktop/ExemploMarckupExtension/ExemploMarckupExtension/MinhaLib/obj/Debug/netstandard2.0/MinhaLib.pdb
